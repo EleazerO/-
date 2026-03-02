@@ -10,8 +10,7 @@ permalink: /tryhackme_courses
 
 ### Jr Penetration Tester [Click here](/jrpentest_index)
 
-<!--### Offenive Pentesting [Click here](/offpentest_index)
-### Red Teaming [Click here](/redteaming)>
+<!-- ### Offenive Pentesting [Click here](/offpentest_index) -->
 
-
+<!-- ### Red Teaming [Click here](/redteaming) -->
 
