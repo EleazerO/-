@@ -8,8 +8,9 @@ I’ve gained experience in troubleshooting/ system administration and  currentl
 
 
 
-***Courses***<br>
+***Qualifications***<br>
 Tryhackme Presecurity<br>
 Tryhckme  Junior Penetration Tester<br>
-OSCP(Studying)<br>
-SC900(Studying)
+CPTS(Currently Studying)<br>
+OSCP(Alumni)
+
