@@ -12,5 +12,5 @@ I’ve gained experience in troubleshooting/ system administration and  currentl
 Tryhackme Presecurity<br>
 Tryhckme  Junior Penetration Tester<br>
 CPTS(Currently Studying)<br>
-OSCP(Alumni)
+OSCP(currently Studying)
 
